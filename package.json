@@ -1,0 +1,29 @@
+{
+	"name": "hue-generator",
+	"version": "0.0.0",
+	"description": "generates colors maximizing hue distance",
+	"license": "MIT",
+	"repository": "YeasterEgg/hue-generator",
+	"author": {
+		"name": "Yeasteregg",
+		"email": "l.d.mattiazzi@gmail.com",
+		"url": "https://yegg.it"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.0"
+	}
+}
